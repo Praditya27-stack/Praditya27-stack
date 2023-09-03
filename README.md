@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Praditya Abyan</h1>
-<h3 align="center">i'm student in SMK IDN Boarding School, I'm Web Developer and UI/UX Designer</h3>
+<h3 align="center">i'm student in President University, I'm Mobile Developer and UI/UX Designer</h3>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Anything**
 
